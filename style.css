@@ -1,10 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');
 
-.mouse {
-    margin-top: 10vh;
+
+.col{
+    padding-top: 350px;
+}
+.mouse {   
+    padding-top: 400px;
 }
 .home {
     background-image: url("images/h_img.jpg");
-    height: 1200px;
+    height: 1071px;   
     background-repeat: no-repeat;
+}
+.wel{
+    position: relative;
+    top: 53px;
+    color: white;
+}
+.TDS{
+    position: relative;
+    top: 130px;
+    color: white;
 }
