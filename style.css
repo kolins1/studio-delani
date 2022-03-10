@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+.mouse {
+    margin-top: 10vh;
+}
+.home {
+    background-image: url("images/h_img.jpg");
+    height: 1200px;
+    background-repeat: no-repeat;
+}
