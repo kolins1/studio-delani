@@ -5,12 +5,15 @@
     padding-top: 350px;
 }
 .mouse {   
-    padding-top: 400px;
+    padding-top: 500px;
 }
-.home {
+.home{
     background-image: url("images/h_img.jpg");
-    height: 1071px;   
+    height: 1200px; 
+    width: 1920; 
     background-repeat: no-repeat;
+    position: relative;
+    top: 80px;
 }
 .wel{
     position: relative;
@@ -22,6 +25,19 @@
     top: 130px;
     color: white;
 }
-.col12{
-    position: relative;  
+.about-section{
+    position: relative;
+    top: 50px;
+
+}
+.wd{
+    position: relative;
+    background-image: url("images/s_image.jpg");
+    color: white;
+    height: 400PX;
+    background-repeat: no-repeat;
+    top: 150px;
+}
+.ser{
+    padding-top: 150px;
 }
