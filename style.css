@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');
 
-
+body{
+    box-sizing: border-box;
+}
 .col{
     padding-top: 350px;
 }
@@ -8,12 +10,11 @@
     padding-top: 390px;
 }
 .home{
-    background-image: url("images/h_img.jpg");
-    height: 1200px; 
-    width: 1920; 
+    background-image: url("images/h_img.jpg"); 
     background-repeat: no-repeat;
     position: relative;
     top: 80px;
+    
 }
 .wel{
     position: relative;
@@ -78,7 +79,7 @@
     background-image: url("images/c_image.jpg");
     position: relative;
     background-repeat: no-repeat;
-    margin-left: 0px;
+    margin-left: -300px;
     
 
 }
@@ -86,30 +87,34 @@
     padding-top: 60px;
     position: relative;
     color: white;
+    margin-left: 280px;
+    
 }
+
 
 #name{
     height: 50px;
-    width: 600px;
+    width: 300px;
     background-color: transparent;
-    border: 1px solid white;
+    border: 2px solid white;
     padding-bottom: 30px;
     color: white;
 }
 #email{
     height: 50px;
-    width: 600px;
+    width: 300px;
     padding-bottom: 30px;
     background-color: transparent;
-    border: 1px solid white;
+    border: 2px solid white;
     color: white;
     
 }
 .form-control{
-    height: 300px;
+    height: 200px;
     background-color: transparent;
-    margin-top: 50px;
+    margin-top: 20px;
     width: 1200px;
     margin-left: 50px;
     color: white;
+    border: 2px solid white;
 }
