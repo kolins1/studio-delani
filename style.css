@@ -63,4 +63,17 @@
 .prodtxt {
     display: none;
 }
+.port{
+    padding-top: 100px;
+    margin-left: -800px;
+}
+.portfolio img{
+    margin-left: -800px;
+    padding-top: 20px;
+    width: 300px;
+
+
+}
+
+
 
